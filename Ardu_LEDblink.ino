@@ -1,8 +1,8 @@
-#define led 7
+ #define led 7  //selects pin 7 for led 
 
 void setup()
 {
-  pinMode(led, OUTPUT);
+  pinMode(led, OUTPUT);  // initializes pin 7 for led output
 }
 
 
